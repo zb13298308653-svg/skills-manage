@@ -70,6 +70,4 @@ export const vendors: Record<string, VendorSkillMeta> = {
 /**
  * Hand-written skills with Anthony Fu's preferences/tastes/recommendations
  */
-export const manual = [
-  'antfu',
-]
+export const manual = []
